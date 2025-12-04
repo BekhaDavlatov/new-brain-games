@@ -1,0 +1,15 @@
+{
+  "name": "@hexlet/code.",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "brin-games": "./bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A set of mini math cli games"
+}
